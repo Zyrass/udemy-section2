@@ -2,7 +2,7 @@
 Apprendre HTML et CSS avec John Codeur sur UDEMY
 
 # Pas encore responsive
-- ( début 2020 )
+- manque la partie 769 > 1024
 
 # Lien visible à cette adresse : 
 <a href="https://udemy-john-codeur-projet-2-travel-agency-by-ag.netlify.com" target="_blank" >Lien vers ce que j'ai codé</a>
